@@ -23,3 +23,12 @@ git push (origin master)
 1. Code block ```
 1. Bullet list - or * _in front of list_
 1. Number list 1. _at the start of each item will **auto sort**_
+1. Table `see snipet below`
+``` 
+item1 | item2 | item3
+     ---|---|---
+```
+name | pet | food
+---|---|---
+Jim | Cat | Chicken
+Mary | Dog | Apple
